@@ -49,7 +49,7 @@
 </head>
 <!-- create table -->
 <body>
-	<div class = title >Welcome to my calulcbator</div>
+	<div class = title >Devopshint</div>
 	<table border="1">
 		<tr>
 			<td colspan="3"><input type="text" id="result"/></td>
@@ -63,7 +63,7 @@
 			<td><input type="button" value="2" onclick="dis('2')"/> </td>
 			<td><input type="button" value="3" onclick="dis('3')"/> </td>
 			<td><input type="button" value="/" onclick="dis('/')"/> </td>
-		</tr>
+		</tr>calulcbator
 		<tr>
 			<td><input type="button" value="4" onclick="dis('4')"/> </td>
 			<td><input type="button" value="5" onclick="dis('5')"/> </td>
@@ -81,7 +81,7 @@
 			<td><input type="button" value="0" onclick="dis('0')"/> </td>
 			<!-- solve function call function solve to evaluate value -->
 			<td><input type="button" value="=" onclick="solve()"/> </td>
-			<td><input type="button" value="*" onclick="dis('*')"/> </td>
+			<td><input type="button" value="*" onclick="calulcbatordis('*')"/> </td>
 		</tr>
 	</table>
 </body>
